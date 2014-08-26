@@ -13,3 +13,25 @@ solution is not modulized.
 * Practice typical Database operation using sqllite3.
 * Matrix multiplication using SQL.
 * Keyword search uses term document matrix.
+
+## Assignment 3 & 4
+
+I have used mapreduce before, thus I finished assignment three rather quick and
+does not include them.
+
+As for assignment 4, I missed the notification of this assignment and does not
+make it.
+
+## Assignment 5 - R Assignment: Classification of Ocean Microbes
+
+working with data from the SeaFlow environmental flow cytometry instrument.
+
+A flow cytometer delivers a flow of particles through capilliary. By shining
+lasers of different wavelengths and measuring the absorption and refraction
+patterns, you can determine how large the particle is and some information about
+its color and other properties, allowing you to detect it.
+
+* Use R to do basic statistical analysis.
+* Use ggplot to visualize data and detect abnormal in the data.
+* Use packages, a.k.a. rpart(decision tree), randomForest and e1071(svm) to do
+  particle classification.
