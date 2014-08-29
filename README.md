@@ -36,7 +36,7 @@ its color and other properties, allowing you to detect it.
 * Use packages, a.k.a. rpart(decision tree), randomForest and e1071(svm) to do
   particle classification.
 
-## Visualization
+## Assignment 6 - Visualization
 
 Use Tableau to create a series of visualizations and use them to explore a
 dataset about the collision of airplane and animals.
